@@ -23,15 +23,15 @@ Welcome to the Apigee mini hands on DevJam workshop.
 
   Once your account has been created, you need to be added to the Apigee environment we'll be using today. To get added, go to:
 
-## [https://devjam-addmetoorg.appspot.com/](https://devjam-addmetoorg.appspot.com/)
+## [http://bit.ly/jpmcdevjam](http://bit.ly/jpmcdevjam)
 
   ![Image](images/add_me_to_org.png)
 
-  Enter your email address & click on Add me to DevJam Org button. On success, It should add you to the Apigee Edge instance we'll be using today and redirect you to the Apigee Edge UI:
+  Enter your email address & submit the form. On success, It should add you to the Apigee Edge instance. If you login to apigee edge and refresh the page, you will see the org "jpmcdev" in your list of organizations.
 
   ![Image](images/dashboard.png)
 
-  Once you are successfully in the Apigee Edge UI, make sure you are in the correct Apigee organization. For the session, you should be in demo-au04. 
+  Once you are successfully in the Apigee Edge UI, make sure you are in the correct Apigee organization. For the session, you should be in jpmcdev. 
   
   ![Image](images/devjam-org.png)
 
