@@ -23,7 +23,7 @@ Welcome to the Apigee mini hands on DevJam workshop.
 
   Once your account has been created, you need to be added to the Apigee environment we'll be using today. To get added, go to:
 
-## [http://bit.ly/jpmcdevjam](http://bit.ly/jpmcdevjam)
+## [http://bit.ly/jpmcdevjam](http://bit.ly/jpmcdevjam) or [https://goo.gl/hLgisK](https://goo.gl/hLgisK)
 
   ![Image](images/add_me_to_org.png)
 
